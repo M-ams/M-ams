@@ -8,6 +8,7 @@
 
 ## 🛠  Technologies and tools
 
+<p align="left">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php logo" title="Php" height="25" />
 <img src="https://img.shields.io/badge/symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony logo" title="Symfony" height="25" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
@@ -20,6 +21,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
+</p>
 
 ### 📫 Reach me at
 
